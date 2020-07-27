@@ -5,3 +5,5 @@ This project was created as a part of freeCodeCamp Responsive Web Design Certifi
 This is project 4.
 
 Details and user stories: https://www.freecodecamp.org/learn/responsive-web-design/responsive-web-design-projects/build-a-technical-documentation-page
+
+View on Codepen: https://codepen.io/cerulean_blue/full/KKwNErW
